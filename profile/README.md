@@ -1,11 +1,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Caos-Hub/.github/main/profile/assets/caos-hub-logo-blanco.png"
        alt="Caos Hub Logo"
-       width="800" />
+       width="420" />
+</p>
+
+<p align="center">
+  <strong>Embedded Systems · IoT · Industrial Communications</strong>
 </p>
 
 
-# Caos Hub
+# Caos Hub  
+_Embedded & IoT Technology Organization_
+
 
 **Caos Hub** es una organización tecnológica dedicada al diseño y desarrollo de sistemas embebidos, plataformas IoT y soluciones de comunicación industrial.
 
