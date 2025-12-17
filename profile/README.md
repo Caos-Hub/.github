@@ -1,8 +1,6 @@
 # Caos Hub
 
-**Caos Hub** es una organización tecnológica enfocada en el diseño, desarrollo y
-mantenimiento de **sistemas embebidos, plataformas IoT y soluciones de comunicación
-industrial**, orientadas a entornos reales de operación.
+**Caos Hub** es una organización tecnológica dedicada al diseño y desarrollo de sistemas embebidos, plataformas IoT y soluciones de comunicación industrial.
 
 Nuestro trabajo se centra en construir arquitecturas **modulares, escalables y
 mantenibles**, pensadas para dispositivos en producción y despliegues de largo plazo.
