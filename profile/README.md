@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Caos-Hub/.github/main/profile/assets/caos-hub-logo.png"
+  <img src="https://raw.githubusercontent.com/Caos-Hub/.github/main/profile/assets/caos-hub-logo-blanco.png"
        alt="Caos Hub Logo"
-       width="120" />
+       width="200" />
 </p>
 
 
